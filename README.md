@@ -1,2 +1,0 @@
-# BudgetCalc
-practice budget calculator
